@@ -1,6 +1,6 @@
 {
-  "name": "react-spreadsheet-import",
-  "version": "4.6.1",
+  "name": "react-excel-importer",
+  "version": "1.0.1",
   "description": "React spreadsheet import for xlsx and csv files with column matching and validation",
   "main": "./dist-commonjs/index.js",
   "module": "./dist/index.js",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UgnisSoftware/react-spreadsheet-import.git"
+    "url": "git+https://github.com/cemalkuller/react-excel-import.git"
   },
   "keywords": [
     "React",
@@ -46,9 +46,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/UgnisSoftware/react-spreadsheet-import/issues"
+    "url": "https://github.com/cemalkuller/react-excel-import/issues"
   },
-  "homepage": "https://github.com/UgnisSoftware/react-spreadsheet-import#readme",
+  "homepage": "https://github.com/cemalkuller/react-excel-import#readme",
   "peerDependencies": {
     "react": ">=18",
     "react-dom": ">=18"
